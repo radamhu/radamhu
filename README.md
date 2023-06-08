@@ -61,45 +61,21 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/radamhu/radamhu/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/radamhu" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  radamhu-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/radamhu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:roland@adaminformatika.hu" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  radamhu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
----
-
-<br>
+  
 
 Credit: [Roland ADAM](https://github.com/radamhu)
 
