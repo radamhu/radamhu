@@ -7,7 +7,13 @@
 
 <br>
 
-## <picture><img src = "https://raw.githubusercontent.com/radamhu/radamhu/main/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    ## <picture><img src = "https://raw.githubusercontent.com/radamhu/radamhu/main/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+  </ul>
+</div>
 
 <br>
 
