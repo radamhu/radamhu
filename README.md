@@ -5,15 +5,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Roland+Adam..&hearts;++;Senoir+Devops Engineer+Developer,;Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ## <picture><img src = "https://raw.githubusercontent.com/radamhu/radamhu/main/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://raw.githubusercontent.com/radamhu/radamhu/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -23,8 +17,6 @@
 - Always open for devops & developer job opportunity, this is [my resume](https://linkedin.com/in/radamhu)
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <!--h1 without bottom border-->
