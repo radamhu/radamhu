@@ -11,9 +11,9 @@
 
 
 	
-## <picture><img src = "https://github.com/radamhu/radamhu/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/radamhu/radamhu/main/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/radamhu/radamhu/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/radamhu/radamhu/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
