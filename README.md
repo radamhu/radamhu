@@ -52,8 +52,3 @@
 <a href="mailto:roland@adaminformatika.hu" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  radamhu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-  
-
-Credit: [Roland ADAM](https://github.com/radamhu)
-
-Last Edited on: 07/06/2023
