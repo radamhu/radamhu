@@ -1,6 +1,4 @@
 
-<h1 align="center"><b>Hi , I'm Roland </b></h1>
-
 <br>
 
 <!--h2 without bottom border-->
