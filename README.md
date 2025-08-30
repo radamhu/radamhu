@@ -17,10 +17,9 @@
 
 <br>
 
-- A passionate Devops Engineer and developer
-- Currently learning Web Development by Self
-- Personal website [link](https://adaminformatika.hu)
-- Always open for devops & developer job opportunity, this is [my resume](https://linkedin.com/in/radamhu)
+- passionate puthon Devops Engineer
+- personal website [link](https://adaminformatika.hu)
+- always open for devops & developer job opportunity, this is [my resume](https://linkedin.com/in/radamhu)
 
 <br><br>
 
