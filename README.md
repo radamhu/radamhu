@@ -17,7 +17,7 @@
 
 <br>
 
-- passionate puthon Devops Engineer
+- passionate python Devops Engineer
 - personal website [link](https://adaminformatika.hu)
 - always open for devops & developer job opportunity, this is [my resume](https://linkedin.com/in/radamhu)
 
